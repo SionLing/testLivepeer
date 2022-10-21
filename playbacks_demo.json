@@ -1,0 +1,9 @@
+{
+    "playbacks":[
+        {
+            "name":"t2",
+            "rtmp":"rtmp://rtmp.livepeer.com/live/8c69-hoav-qnwz-7vs1",
+            "url":"https://livepeercdn.com/hls/8c69hkymj3bn7p5t/index.m3u8"
+        }
+    ]
+}
